@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ATM-helper-app/static/css/main.39d46359.css",
+    "main.js": "/ATM-helper-app/static/js/main.de5f4cc1.js",
+    "index.html": "/ATM-helper-app/index.html",
+    "main.39d46359.css.map": "/ATM-helper-app/static/css/main.39d46359.css.map",
+    "main.de5f4cc1.js.map": "/ATM-helper-app/static/js/main.de5f4cc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39d46359.css",
+    "static/js/main.de5f4cc1.js"
+  ]
+}
